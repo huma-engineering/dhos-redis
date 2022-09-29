@@ -1,3 +1,6 @@
+# Announcement :loudspeaker: 
+
+This repository is transferred from [gdm-SynseneHealth](https://github.com/sensynehealth/dhos-redis) to Huma organisation as part of change in asset ownership 
 # dhos-redis
 
 A package that wraps redis functionality for Polaris.
